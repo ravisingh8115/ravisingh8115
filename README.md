@@ -9,12 +9,10 @@
 
 - 🌱 I’m currently learning **React.js,Restful Api using python,django**
  
-- 💬 Ask me about **react,html,css,javascript,python,React.js, Django**
+- 💬 Ask me about **HTML,CSS,javascript,python,React.js, Django**
 
-- 📫 How to reach me **ravisingh8115@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-### 📫 How to reach me?
+- 📫 How to reach me?
 
 <p float="left">
   <a href="https://www.linkedin.com/in/ravi-singh-a768001ba/" target="_blank" >
