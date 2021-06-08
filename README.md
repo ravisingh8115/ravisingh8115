@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saitharunsai&label=Profile%20views&color=0e75b6&style=flat" alt="Ravi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisingh8115&label=Profile%20views&color=0e75b6&style=flat" alt="Ravi" /> </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -36,15 +36,10 @@ I’m currently learning HTML, CSS, JS, ReactJS, Python, Django. 🚀
 ### 📫 How to reach me?
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/shubham-fasale-357268b0/" target="_blank" >
+  <a href="https://www.linkedin.com/in/ravi-singh-a768001ba/" target="_blank" >
     <img src="https://logodix.com/logo/4340.png"  height="40" />
   </a>
-  
-  <a href="https://www.instagram.com/shubh_25_06/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"  height="40" /> 
-  </a>
-  
-  <a href="mailto:shubhfasale@gmail.com" target="_blank" >
+  <a href="mailto:ravisingh8115@gmail.com" target="_blank" >
     <img src="https://www.clipartkey.com/mpngs/m/230-2300906_transparent-outlook-icon-png-small-email-logo-png.png"  height="40" />
   </a>
  </p>
